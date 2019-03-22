@@ -1,4 +1,5 @@
-# vue-test
+研究室の在室状況管理アプリ
+
 
 ## Project setup
 ```
